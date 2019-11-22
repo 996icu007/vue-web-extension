@@ -1,6 +1,6 @@
 # vue-web-extension
 
-##创建一个扩展项目
+## 创建一个扩展项目
 vue init kocal/vue-web-extension 项目名
 
 [![Build Status (Travis)](https://travis-ci.org/Kocal/vue-web-extension.svg?branch=master)](https://travis-ci.org/Kocal/vue-web-extension)
