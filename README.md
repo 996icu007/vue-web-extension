@@ -1,5 +1,8 @@
 # vue-web-extension
 
+##创建一个扩展项目
+vue init kocal/vue-web-extension 项目名
+
 [![Build Status (Travis)](https://travis-ci.org/Kocal/vue-web-extension.svg?branch=master)](https://travis-ci.org/Kocal/vue-web-extension)
 [![Build Status (AppVeyor)](https://ci.appveyor.com/api/projects/status/huaoxwvqcoyx2x08/branch/master?svg=true)](https://ci.appveyor.com/project/Kocal/vue-web-extension/branch/master)
 
